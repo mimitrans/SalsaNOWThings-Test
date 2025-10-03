@@ -55,7 +55,15 @@
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/qBittorrent.zip"
   },
+  {
+	"name": "Hydra",
+	"fileExtension": "zip",
+	"exeName": "Hydra.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Hydra.zip"
+  },
 ]
+
 
 
 
