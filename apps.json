@@ -1,0 +1,45 @@
+[
+  {
+    "name": "UwUTools",
+	"fileExtension": "exe",
+	"exeName": "UwUTools.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/UwUTools_Binaries/releases/download/UwUToolsBinaries/UwUTools.exe"
+  },
+  {
+    "name": "Mozilla Firefox",
+	"fileExtension": "zip",
+	"exeName": "firefox.exe",
+	"run": "false",
+    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDU1NDQ5fA?shareable_link=16232&password=null"
+  },
+  {
+    "name": "System Informer",
+	"fileExtension": "zip",
+	"exeName": "systeminformer.exe",
+	"run": "false",
+    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDU1NDk3fA?shareable_link=16233&password=null"
+  },
+    {
+    "name": "Explorer++",
+	"fileExtension": "exe",
+	"exeName": "Explorer++.exe",
+	"run": "false",
+    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDc1fA?shareable_link=16234&password=null"
+  },
+  {
+    "name": "7-Zip",
+	"fileExtension": "zip",
+	"exeName": "7zFM.exe",
+	"run": "false",
+    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDczfA?shareable_link=16235&password=null"
+  },
+  {
+    "name": "Notepad++",
+	"fileExtension": "zip",
+	"exeName": "notepad++.exe",
+	"run": "false",
+    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDc2fA?shareable_link=16236&password=null"
+  },
+]
+

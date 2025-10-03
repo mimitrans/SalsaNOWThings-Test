@@ -1,0 +1,7 @@
+{
+	"server_port": 9753,
+    "server_address": "127.10.0.231",
+    "flavor": "",
+    "BlockedFunctions": {
+    }
+}
