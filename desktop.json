@@ -4,13 +4,14 @@
     "exeName": "WinXShell.exe",
 	"taskbarFixer": "WSSolution.exe",
 	"run": "true",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxNDA5OTEwfA?shareable_link=16715&password=null"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/WinXShell_x64.zip"
   },
   {
 	"name": "seelenui",
 	"exeName": "seelen-ui.exe",
 	"run": "true",
-        "zipConfig": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMzUzNzQwfA?shareable_link=16671&password=null",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDc4fA?shareable_link=16240&password=null"
+        "zipConfig": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SeelenUiConfig.zip",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/seelenui.zip"
   },
 ]
+
