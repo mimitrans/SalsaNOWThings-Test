@@ -11,50 +11,51 @@
 	"fileExtension": "zip",
 	"exeName": "firefox.exe",
 	"run": "false",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDU1NDQ5fA?shareable_link=16232&password=null"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Mozilla.Firefox.zip"
   },
   {
     "name": "System Informer",
 	"fileExtension": "zip",
 	"exeName": "systeminformer.exe",
 	"run": "false",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDU1NDk3fA?shareable_link=16233&password=null"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/System.Informer.zip"
   },
     {
     "name": "Explorer++",
 	"fileExtension": "exe",
 	"exeName": "Explorer++.exe",
 	"run": "false",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDc1fA?shareable_link=16234&password=null"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Explorer++.exe"
   },
   {
     "name": "7-Zip",
 	"fileExtension": "zip",
 	"exeName": "7zFM.exe",
 	"run": "false",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDczfA?shareable_link=16235&password=null"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/7-Zip.zip"
   },
   {
     "name": "Notepad++",
 	"fileExtension": "zip",
 	"exeName": "notepad++.exe",
 	"run": "false",
-    "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDc2fA?shareable_link=16236&password=null"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Notepad++.zip"
   },
   {
 	"name": "FDM",
 	"fileExtension": "zip",
 	"exeName": "fdm.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/FDM.zip"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/FDM.zip"
   },
   {
 	"name": "qBittorrent",
 	"fileExtension": "zip",
 	"exeName": "qbittorrent.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/qBittorrent.zip"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/qBittorrent.zip"
   },
 ]
+
 
 
