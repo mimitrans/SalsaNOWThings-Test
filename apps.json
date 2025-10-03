@@ -41,5 +41,20 @@
 	"run": "false",
     "url": "https://app.drime.cloud/api/v1/file-entries/download/NDcxMDM3MDc2fA?shareable_link=16236&password=null"
   },
+  {
+	"name": "FDM",
+	"fileExtension": "zip",
+	"exeName": "fdm.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/FDM.zip"
+  },
+  {
+	"name": "qBittorrent",
+	"fileExtension": "zip",
+	"exeName": "qbittorrent.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/RetroBatGFNThings/releases/download/GFNSoftware/qBittorrent.zip"
+  },
 ]
+
 
