@@ -62,7 +62,15 @@
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Hydra.zip"
   },
+  {
+	"name": "SWA",
+	"fileExtension": "zip",
+	"exeName": "SWA.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SWA.zip"
+  },
 ]
+
 
 
 
