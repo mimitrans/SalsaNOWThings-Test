@@ -7,11 +7,11 @@
     "url": "https://github.com/dpadGuy/UwUTools_Binaries/releases/download/UwUToolsBinaries/UwUTools.exe"
   },
   {
-    "name": "Mozilla Firefox",
+    "name": "Waterfox",
 	"fileExtension": "zip",
-	"exeName": "firefox.exe",
+	"exeName": "waterfox.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Mozilla.Firefox.zip"
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Waterfox.zip"
   },
   {
     "name": "System Informer",
@@ -70,8 +70,3 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SWA.zip"
   },
 ]
-
-
-
-
-
