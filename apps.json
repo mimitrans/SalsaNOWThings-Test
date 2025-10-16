@@ -69,4 +69,12 @@
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SWA.zip"
   },
+  {
+    "name": "Roblox Cursor Fix",
+	"fileExtension": "exe",
+	"exeName": "Roblox Cursor Fix.exe",
+	"run": "false",
+    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Roblox.Cursor.Fix.exe"
+  },
 ]
+
