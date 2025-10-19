@@ -42,13 +42,6 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Notepad++.zip"
   },
   {
-	"name": "FDM",
-	"fileExtension": "zip",
-	"exeName": "fdm.exe",
-	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/FDM.zip"
-  },
-  {
 	"name": "qBittorrent",
 	"fileExtension": "zip",
 	"exeName": "qbittorrent.exe",
@@ -68,13 +61,6 @@
 	"exeName": "SWA.exe",
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SWA.zip"
-  },
-  {
-    "name": "Roblox Cursor Fix",
-	"fileExtension": "exe",
-	"exeName": "Roblox Cursor Fix.exe",
-	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Roblox.Cursor.Fix.exe"
   },
 ]
 
