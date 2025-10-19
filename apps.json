@@ -35,11 +35,11 @@
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/7-Zip.zip"
   },
   {
-    "name": "Notepad++",
+    "name": "Sublime_Text",
 	"fileExtension": "zip",
-	"exeName": "notepad++.exe",
+	"exeName": "sublime_text.exe",
 	"run": "false",
-    "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/Notepad++.zip"
+    "url": "https://github.com/mimitrans/SalsaNOWThings-Test/releases/download/files-main/Sublime_Text.zip"
   },
   {
 	"name": "qBittorrent",
@@ -61,6 +61,13 @@
 	"exeName": "SWA.exe",
 	"run": "false",
     "url": "https://github.com/dpadGuy/SalsaNOWThings/releases/download/Things/SWA.zip"
+  },
+  {
+	"name": "OldSClient",
+	"fileExtension": "zip",
+	"exeName": "steam.exe",
+	"run": "false",
+	"url": "https://github.com/mimitrans/SalsaNOWThings-Test/releases/download/files-main/OldSClient.zip"
   },
 ]
 
